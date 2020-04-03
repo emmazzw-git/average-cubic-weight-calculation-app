@@ -4,7 +4,6 @@ This command line application provides a calculation of Kogan's Air Conditioners
 ```
 The average cubic weight is 41.6133846875
 ```
-The app is written in python3.
 
 ## Development
 ### Why Docker?
